@@ -8,7 +8,6 @@ KNN is used for this purpose.
 
 
 <br>
-<br>
 
 ### To test the program yourself, you will need client_id and client_secret
 ### To get them, you should register the app in Spotify's development tools.
